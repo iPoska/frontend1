@@ -1,0 +1,22 @@
+#randomfield { 
+    /*
+    #randomfield is the ID of the Captcha box
+    */
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+user-select: none;
+width: 120px;
+color: #413434;
+border-color: white;
+text-align: center;
+font-size: 28px;
+background-image: url('2.jpg');
+height: 43px;
+margin-top: -36px;
+padding-bottom: 10px;
+margin-bottom: -14px;
+}
